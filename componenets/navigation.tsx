@@ -20,3 +20,5 @@ export default function Navigation() {
     </nav>
   );
 }
+
+//about-us -------> Boring HTML-- > :) -----> init(Boring HTML)
